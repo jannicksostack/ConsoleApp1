@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Fra VS Sostack!");
+            Console.WriteLine("Hello, Fra VS Fra GH!");
         }
     }
 }
